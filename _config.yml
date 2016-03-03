@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.3936567
+  lightness: 0.07182836
+  brandStrength: 0.8712686
+  brandColors:
+    - '#030404'
+    - '#436392'
+    - '#6587AC'
+    - '#777777'
+    - '#4B545C'
+  rhythmicContrast: 0.9328358
+typography_spectrum: 0.1287313
+name: Sunset Road
